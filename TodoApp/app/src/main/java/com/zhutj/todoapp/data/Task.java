@@ -44,12 +44,12 @@ public final class Task {
     }
 
     @NonNull
-    public String getmId() {
+    public String getId() {
         return mId;
     }
 
     @Nullable
-    public String getmTitle() {
+    public String getTitle() {
         return mTitle;
     }
 
